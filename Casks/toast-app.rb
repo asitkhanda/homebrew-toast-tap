@@ -1,6 +1,6 @@
 cask "toast-app" do
   version "0.4.1"
-  sha256 "85d867f9ed5e63f948c28cab8922087a147460bea11df9b0778bb0bd0068bd43"
+  sha256 "774c9cbbbacc88bbd821694ba27b46ff2437b0394b47c2dabe3b8bcfa70eb595"
 
   url "https://github.com/asitkhanda/toast/releases/download/v#{version}/Toast-#{version}.dmg"
   name "Toast"
