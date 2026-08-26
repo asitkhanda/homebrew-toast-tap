@@ -1,5 +1,8 @@
 # homebrew-toast-tap
 
+This repository is the authoritative source for the Toast Homebrew cask.
+The copy under `toast/toast-tap/` in the main repository is reference-only.
+
 Homebrew tap for [Toast](https://toast.asit.space) — a menu bar app (no Dock icon) to check your Vercel deployments live.
 
 ## Install
